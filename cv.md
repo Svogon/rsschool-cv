@@ -19,6 +19,8 @@ I want to professionally do what I like - programming
   + VS Code
   + GitHub Desktop
   + Excel
+* **English level**  
+  + Pre-Intermediate (A2)
 
 ## EDUCATION
 * **University:** Belarusian State University of Informatics and Radioelectronics (BSUIR)  
